@@ -22,4 +22,7 @@ public static void clickelement(WebElement elementname) {
 	
 
 }
+	public static void takesscreenshot{
+	system.out.println(screenshot);
+	}
 }
